@@ -1,0 +1,3 @@
+#EXTM3U  tvg-shift=+2
+#EXTINF:-1,  tvg-id="Deportes" tvg-name="Fox Sport Premium" tvg-logo="http://www.pelotacuadrada.com.ar/img/logos-canales-de-tv/fox-sports-premium-logo.jpg" group-title="DEPORTE" audio-track="spa,",Fox Sport Premium
+https://e10.cdnfoxtv.me/ingestnb4s/foxpar/master.m3u8
