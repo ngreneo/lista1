@@ -8,7 +8,7 @@ h
 https://dtv-latam-abc.akamaized.net/dash/live/2005190/dtv/dtvlatam_el_trece_hd_arg/master.mpd
 
 #EXTINF:-1,01x03
-ttps://stream-4338-55-56.pvdcdn.co/kyoho2rkjeikkfn2mccpymq6gd7o6id7jlqfyvapzgjwt6syahinrvvkly/fad6m7wwyh7x.m3u8
+https://widevine.license.istreamplanet.com/widevine/api/license/41710beb-de7c-4d5d-bf03-2db003b86f11
 
 #EXTINF:-1, 01x04
 https://stream-4891-212-105.pvdcdn.co/juoho4rkjeikkfn2mbi72jspfrppllirses35firbsk4hxgvsvb2p5cdjq/r0x0lyta8wyn.m3u8
